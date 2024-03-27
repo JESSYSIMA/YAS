@@ -1,5 +1,8 @@
 <html>
+  <head>
+    <title>Home Page</title>
+  </head>
   <body>
-  <title> Home Page</title> 
+
   </body>
 </html>
